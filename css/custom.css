@@ -1,0 +1,32 @@
+
+
+.barra {
+    padding: 20px 0;
+    background: #202020;
+}
+
+.barra p {
+    margin: 0;
+    color: #fff;
+}
+.icono{
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 60px;
+    background-size: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+
+
+.icono1 {
+    background-image: url(../images/auto.png);
+}
+.icono2 {
+    background-image: url(../images/rapido.png);
+}
+.icono3 {
+    background-image: url(../images/precio.png);
+}
+
